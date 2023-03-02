@@ -9,8 +9,18 @@ After some preliminary wrangling, I used the Univariate, Bivariate, Multivariate
 
 ## Summary of Findings 
 
-2008 flights in the USA from January to April were mostly earlier than expected on right on time. The delays were mostly caused by late aircrafts and then National Airspace System (NAS) delays, although we find out that NAS delay have the strongest relationhip with delay times. This flights mostly covered short distances, however, there was no relationship between the distances and delayed times. The most common destinations for flights were the same as the departure states. Northwest Airlines Inc. (NW) have the most average delays. Lastly, delay times and NAS delays have a strong relationship for each of the major destinations in each month. I expect to bring these into the presentation.
+2008 flights in the USA from January to April were mostly earlier than expected on right on time. The delays were mostly caused by late aircrafts and then National Airspace System (NAS) delays, although we find out that NAS delay have the strongest relationship with delay times. This flights mostly covered short distances, however, there was no relationship between the distances and delayed times. The most common destinations for flights were the same as the departure states. Northwest Airlines Inc. (NW) have the most average delays. Lastly, delay times and NAS delays have a strong relationship for each of the major destinations in each month. I expect to bring these into the presentation.
 
 ## Key Insights for Presentation
 
-For the presentation
+For the presentation, I focused on key insights answering these questions. 
+
+The questions I generated insights on are:
+- How are delay times distributed? Are many flights were delayed or not?
+- What is the major cause of delay?
+- Were the flights over more longer distances than short distances?
+- What are the top destinations and origins for the flights?
+- Does distance affect delay times?
+- Do some airlines experience more delays than others?
+- What is the relationship between delay times and the causes of delay?
+- How do the delay times and NAS delay vary with the most common destinations in each month?

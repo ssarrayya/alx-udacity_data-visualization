@@ -12,3 +12,5 @@ After some preliminary wrangling, I used the Univariate, Bivariate, Multivariate
 2008 flights in the USA from January to April were mostly earlier than expected on right on time. The delays were mostly caused by late aircrafts and then National Airspace System (NAS) delays, although we find out that NAS delay have the strongest relationhip with delay times. This flights mostly covered short distances, however, there was no relationship between the distances and delayed times. The most common destinations for flights were the same as the departure states. Northwest Airlines Inc. (NW) have the most average delays. Lastly, delay times and NAS delays have a strong relationship for each of the major destinations in each month. I expect to bring these into the presentation.
 
 ## Key Insights for Presentation
+
+For the presentation
